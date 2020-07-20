@@ -32,7 +32,6 @@ License
 ----
 
 MIT
-
 [//]:#
 [André Siqueira]: <mailto:siqueira.andre@gmail.com>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer>
